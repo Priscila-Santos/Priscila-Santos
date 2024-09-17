@@ -1,5 +1,8 @@
 # Bem-Vindo(a) ao meu perfil 👋
-![img-github-banner](https://github.com/user-attachments/assets/5d0ea53c-906c-4c78-99d2-b0fa326e134b)
+<!--<img src="https://github.com/user-attachments/assets/5d0ea53c-906c-4c78-99d2-b0fa326e134b" alt="img-github-banner" height="200" width="500" />
+
+<!--![img-github-banner](https://github.com/user-attachments/assets/5d0ea53c-906c-4c78-99d2-b0fa326e134b)
+
 
 <!--## Olá meu nome é Priscila Santos 👋
 
