@@ -32,9 +32,9 @@ Adoro enfrentar novos desafios e estou sempre em busca de oportunidades para exp
 <div>
     <a href="https://www.linkedin.com/in/priscilasdsantos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<br>
+<!-- <br>
 <img  src="https://th.bing.com/th/id/OIG3.cM.s3JKn2DdXwG4lvA4q?pid=ImgGn">
-<br>
+<br> -->
 
 <!--Here are some ideas to get you started:
 
