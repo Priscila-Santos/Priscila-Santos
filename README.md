@@ -1,4 +1,4 @@
-# Olá, eu sou a Priscila Santos! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> 
+# Olá, eu sou Priscila Santos! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> 
 
 ## Sobre mim
 <p style="font-family: 'Comic Sans MS'; font-size: 1.4rem;">
